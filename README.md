@@ -12,7 +12,9 @@
 
 *Multiclass Classification (5 severity levels) · Binary Classification (DR vs No DR) · Built from Scratch*
 
-[📄 Research Paper](docs/PaperSubmission_Ahmad.doc) · [📊 Presentation](docs/Ahmad_ProjectPresentationPPT.pptx) · [💻 Notebook](notebooks/DR_Detection.ipynb)
+[📄 Research Paper Published on IEEE BIBM 2024]([docs/PaperSubmission_Ahmad.doc](https://www.researchgate.net/publication/386651665_Diabetic_Retinopathy_Detection_from_Fundus_Images_Using_Deep_Convolutional_Neural_Networks)) 
+
+[💻 Notebook](notebooks/DR_Detection.ipynb)
 
 </div>
 
