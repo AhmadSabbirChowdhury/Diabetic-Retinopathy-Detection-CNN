@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔬 Diabetic Retinopathy Detection from Fundus Images Using Deep CNN
+# Diabetic Retinopathy Detection from Fundus Images Using Deep CNN
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
@@ -12,7 +12,7 @@
 
 *Multiclass Classification (5 severity levels) · Binary Classification (DR vs No DR) · Built from Scratch*
 
-[📄 Research Paper Published on IEEE BIBM 2024 Conference](https://www.researchgate.net/publication/386651665_Diabetic_Retinopathy_Detection_from_Fundus_Images_Using_Deep_Convolutional_Neural_Networks)
+[📄 **Research Paper Published on IEEE BIBM 2024 Conference**](https://www.researchgate.net/publication/386651665_Diabetic_Retinopathy_Detection_from_Fundus_Images_Using_Deep_Convolutional_Neural_Networks)
 
 [💻 Notebook (Multi-class](notebooks/DiabeticRetionagraphyDetectionV2.ipynb)
 [💻 Notebook (Multi-class](notebooks/DiabeticRetionagraphyDetectionV3(Binary).ipynb)
@@ -41,7 +41,7 @@
 
 ---
 
-## 🧠 About the Project
+## About the Project
 
 Diabetic Retinopathy (DR) is one of the leading causes of blindness worldwide. It occurs when high blood sugar damages the blood vessels in the retina, causing them to swell, leak, or stop blood flow entirely. Early detection is critical — but traditional screening relies on ophthalmologists manually interpreting fundus images, which is time-consuming, subjective, and prone to human error.
 
