@@ -369,10 +369,11 @@ Pillow>=8.0.0
 ## 👨‍💻 Author
 
 **Ahmad Chowdhury**
-- 🎓 Jodrey School of Computer Science, Acadia University, Wolfville, NS, Canada
-- 📧 [0304974c@acadiau.ca](mailto:0304974c@acadiau.ca)
+- 🏢 Job: AI Researcher, Nova Scotia Health, Nova Scotia Cancer Society, Halifax, NS, Canada
+- 🎓 Education: MSc, Jodrey School of Computer Science, Acadia University, Wolfville, NS, Canada
+- 📧 [ahmadchowdhury@acadiau.ca](mailto:ahmadchowdhury@acadiau.ca)
 - 🔗 [GitHub](https://github.com/AhmadSabbirChowdhury)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmadsabbirchowdhury/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-sabbir-101/)
 
 ---
 
